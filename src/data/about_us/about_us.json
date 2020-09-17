@@ -1,0 +1,23 @@
+{
+    "data": [
+      {
+        "id": 1,
+        "title": "CTO鈴木",
+        "description": "CTO鈴木の自己紹介",
+        "imgSrc": "../../images/szksensei.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Tran Minh Loc",
+        "description": "ロックさんの自己紹介",
+        "imgSrc": "../../images/loc.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Vu Duc Huy",
+        "description": "フィーさんの自己紹介",
+        "imgSrc": "../../images/huy.jpg"
+      }
+    ]
+  }
+  
